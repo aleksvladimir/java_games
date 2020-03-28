@@ -2,7 +2,7 @@ package ru.portfolio.matches;
 
 /**
  * Игра 11 спичек
- * author Aleksandrov Vladimir
+ * author Vladimir Aleksandrov
  */
 public class Matches {
     // todo: добавить JavaDocs
