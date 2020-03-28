@@ -1,6 +1,8 @@
 package ru.portfolio.matches;
 
 public class Matches {
+    // todo: добавить JavaDocs
+    // todo: исправить проблему сборки из под командной строки - ошибка кодировки русских символов при выводе в консоль
 
     private int matchesCount;
 
